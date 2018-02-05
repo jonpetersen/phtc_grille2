@@ -59,6 +59,16 @@ var delay_increment_secs = config.DelayIncrementSecs * 1000;
 var loop_number = config.LoopNumber;    
 var interval_secs = config.IntervalSecs * 1000;
 
+if (routine == "predefined") {
+  predefined_routine = config.PredefinedRoutine
+  if (predefined_routine == 1) {
+    var predefined_program = config.PredefinedRoutines.Routine1  
+  }
+  if (predefined_routine == 2) {
+    var predefined_program = config.PredefinedRoutines.Routine2  
+  }
+};
+
 if (routine == "custom") {
   custom_routine = config.CustomRoutine
   if (custom_routine == 1) {
@@ -137,7 +147,7 @@ zwave.on('value changed', function(nodeid, comclass, value) {
     
         zwave.setValue(2, 38, 1, 0, 99); // light up full brightness
         //zwave.setValue(2, 51, 1, 0, "#FF000000"); //red
-        zwave.setValue(2, 112, 1, 72, 10); //run pre-defined program
+        zwave.setValue(2, 112, 1, 72, predefined_program); //run pre-defined program
         
         delay(predefined_delay_secs)
         .then(() => {

@@ -25855,3 +25855,2056 @@
 {"level":"info","message":"node2: changed: 49:Power:28.9->6.2","timestamp":"11:47:24"}
 {"level":"info","message":"node2: changed: 49:Power:6.2->0.0","timestamp":"11:47:25"}
 {"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"11:47:27"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"11:52:02"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"11:52:02"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"11:52:02"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->0","timestamp":"11:52:02"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->false","timestamp":"11:52:02"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"11:52:02"}
+{"level":"info","message":"disconnecting...","timestamp":"11:54:05"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:12:04"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:12:04"}
+{"level":"info","message":"node added","timestamp":"12:12:04"}
+{"level":"info","message":"node added","timestamp":"12:12:04"}
+{"level":"info","message":"node added","timestamp":"12:12:04"}
+{"level":"info","message":"node2: nop","timestamp":"12:12:04"}
+{"level":"info","message":"node3: nop","timestamp":"12:12:09"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:12:09"}
+{"level":"info","message":"node ready","timestamp":"12:12:09"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:12:09"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:12:09"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:12:10"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:12:10"}
+{"level":"info","message":"node ready","timestamp":"12:12:10"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:12:10"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:12:10"}
+{"level":"info","message":"====> scan complete","timestamp":"12:12:10"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Burglar:0->3","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:12:13"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->3.0","timestamp":"12:12:14"}
+{"level":"info","message":"3.0","timestamp":"12:12:14"}
+{"level":"info","message":"go lit","timestamp":"12:12:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:12:14"}
+{"level":"info","message":"node2: changed: 112:Starting predefined program:10->10","timestamp":"12:12:14"}
+{"level":"info","message":"%d - go dim","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:12:20"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:3.0->0.0","timestamp":"12:12:24"}
+{"level":"info","message":"disconnecting...","timestamp":"12:12:46"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:12:51"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:12:51"}
+{"level":"info","message":"node added","timestamp":"12:12:51"}
+{"level":"info","message":"node added","timestamp":"12:12:51"}
+{"level":"info","message":"node added","timestamp":"12:12:51"}
+{"level":"info","message":"node2: nop","timestamp":"12:12:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:12:53"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:12:54"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:12:54"}
+{"level":"info","message":"1.2","timestamp":"12:12:54"}
+{"level":"info","message":"go lit","timestamp":"12:12:54"}
+{"level":"info","message":"node3: nop","timestamp":"12:12:56"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:12:56"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:12:57"}
+{"level":"info","message":"node2: changed: 112:Starting predefined program:10->6","timestamp":"12:12:57"}
+{"level":"info","message":"node ready","timestamp":"12:12:57"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:12:57"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:12:57"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:12:57"}
+{"level":"info","message":"%d - go dim","timestamp":"12:13:00"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"12:13:04"}
+{"level":"info","message":"node2: timeout","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:9->18","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:18->17","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:17->19","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:19->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.1","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->3.1","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:08"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:08"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:13:08"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:13:08"}
+{"level":"info","message":"node ready","timestamp":"12:13:08"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:13:08"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:13:08"}
+{"level":"info","message":"====> scan complete","timestamp":"12:13:08"}
+{"level":"info","message":"node2: changed: 49:Power:3.1->0.0","timestamp":"12:13:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:13:15"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->6.4","timestamp":"12:13:15"}
+{"level":"info","message":"6.4","timestamp":"12:13:15"}
+{"level":"info","message":"go lit","timestamp":"12:13:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:13:15"}
+{"level":"info","message":"node2: changed: 112:Starting predefined program:6->6","timestamp":"12:13:16"}
+{"level":"info","message":"node3: changed: 49:Luminance:312->91","timestamp":"12:13:18"}
+{"level":"info","message":"%d - go dim","timestamp":"12:13:21"}
+{"level":"info","message":"node2: changed: 38:Level:10->0","timestamp":"12:13:21"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:22"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:13:25"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:13:26"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:13:26"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:6.4->1.0","timestamp":"12:13:26"}
+{"level":"info","message":"1.0","timestamp":"12:13:26"}
+{"level":"info","message":"go lit","timestamp":"12:13:26"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:13:26"}
+{"level":"info","message":"node2: changed: 112:Starting predefined program:6->6","timestamp":"12:13:26"}
+{"level":"info","message":"node3: changed: 49:Luminance:91->76","timestamp":"12:13:29"}
+{"level":"info","message":"%d - go dim","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:10->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:13:32"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"12:13:36"}
+{"level":"info","message":"disconnecting...","timestamp":"12:13:39"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:14:41"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:14:41"}
+{"level":"info","message":"node added","timestamp":"12:14:41"}
+{"level":"info","message":"node added","timestamp":"12:14:41"}
+{"level":"info","message":"node added","timestamp":"12:14:41"}
+{"level":"info","message":"node2: nop","timestamp":"12:14:41"}
+{"level":"info","message":"node3: nop","timestamp":"12:14:46"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:14:46"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:14:47"}
+{"level":"info","message":"node ready","timestamp":"12:14:47"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:14:47"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 50:Power:3.1->0.0","timestamp":"12:14:47"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:14:48"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:14:48"}
+{"level":"info","message":"node ready","timestamp":"12:14:48"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:14:48"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:14:48"}
+{"level":"info","message":"====> scan complete","timestamp":"12:14:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:14:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:14:49"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:14:49"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:14:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:14:50"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.6","timestamp":"12:14:50"}
+{"level":"info","message":"1.6","timestamp":"12:14:50"}
+{"level":"info","message":"go lit","timestamp":"12:14:50"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:14:50"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:14:50"}
+{"level":"info","message":"0 - go dim","timestamp":"12:14:50"}
+{"level":"info","message":"node2: changed: 38:Level:9->90","timestamp":"12:14:50"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:14:50"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:14:50"}
+{"level":"info","message":"node2: changed: 38:Level:90->30","timestamp":"12:14:50"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:30->99","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->2","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:2->99","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:51"}
+{"level":"info","message":"0 - go dim","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:51"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->64","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:64->20","timestamp":"12:14:51"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:51"}
+{"level":"info","message":"0 - go dim","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 38:Level:20->86","timestamp":"12:14:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:52"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:86->0","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:52"}
+{"level":"info","message":"1 - go dim","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:9->45","timestamp":"12:14:52"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:45->2","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:2->10","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->5.6","timestamp":"12:14:52"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:10->76","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:76->99","timestamp":"12:14:52"}
+{"level":"info","message":"1 - go dim","timestamp":"12:14:52"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:53"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:99->76","timestamp":"12:14:53"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:76->36","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:53"}
+{"level":"info","message":"1 - go dim","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:36->86","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:53"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:86->0","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:53"}
+{"level":"info","message":"2 - go dim","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 38:Level:9->47","timestamp":"12:14:54"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 38:Level:47->11","timestamp":"12:14:54"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:14:54"}
+{"level":"info","message":"2 - go dim","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 38:Level:11->90","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:14:54"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:14:54"}
+{"level":"info","message":"node2: changed: 38:Level:90->30","timestamp":"12:14:54"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:55"}
+{"level":"info","message":"2 - go dim","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 38:Level:30->90","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:55"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:14:55"}
+{"level":"info","message":"3 - go dim","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 49:Power:5.6->9.1","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 38:Level:90->63","timestamp":"12:14:55"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:14:55"}
+{"level":"info","message":"node2: changed: 38:Level:63->9","timestamp":"12:14:56"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:14:56"}
+{"level":"info","message":"%d - go dim","timestamp":"12:14:56"}
+{"level":"info","message":"3 - go dim","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 38:Level:9->86","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 38:Level:86->32","timestamp":"12:14:56"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 38:Level:32->9","timestamp":"12:14:56"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:14:56"}
+{"level":"info","message":"3 - go dim","timestamp":"12:14:56"}
+{"level":"info","message":"node2: changed: 38:Level:9->97","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:97->97","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:97->89","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:89->30","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:30->0","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:14:57"}
+{"level":"info","message":"node2: changed: 49:Power:9.1->0.0","timestamp":"12:14:58"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.6->0.0","timestamp":"12:15:00"}
+{"level":"info","message":"disconnecting...","timestamp":"12:15:04"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:15:21"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:15:22"}
+{"level":"info","message":"node added","timestamp":"12:15:22"}
+{"level":"info","message":"node added","timestamp":"12:15:22"}
+{"level":"info","message":"node added","timestamp":"12:15:22"}
+{"level":"info","message":"node2: nop","timestamp":"12:15:22"}
+{"level":"info","message":"node3: nop","timestamp":"12:15:27"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:15:27"}
+{"level":"info","message":"node ready","timestamp":"12:15:27"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:15:27"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:15:27"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:15:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:15:28"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:15:28"}
+{"level":"info","message":"node ready","timestamp":"12:15:28"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:15:28"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:15:28"}
+{"level":"info","message":"====> scan complete","timestamp":"12:15:28"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:15:32"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.4","timestamp":"12:15:32"}
+{"level":"info","message":"1.4","timestamp":"12:15:32"}
+{"level":"info","message":"go lit","timestamp":"12:15:32"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:33"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:15:33"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:9->31","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:50->40","timestamp":"12:15:33"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:40->0","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:33"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:33"}
+{"level":"info","message":"node2: changed: 38:Level:9->32","timestamp":"12:15:33"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:32->80","timestamp":"12:15:34"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:80->22","timestamp":"12:15:34"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:15:34"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:22->68","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:52->99","timestamp":"12:15:34"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:15:34"}
+{"level":"info","message":"node2: changed: 38:Level:99->0","timestamp":"12:15:35"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->90","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:90->99","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:99->0","timestamp":"12:15:35"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->29","timestamp":"12:15:35"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:29->18","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:18->0","timestamp":"12:15:35"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->48","timestamp":"12:15:35"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:48->96","timestamp":"12:15:35"}
+{"level":"info","message":"node2: changed: 38:Level:96->89","timestamp":"12:15:36"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 38:Level:89->30","timestamp":"12:15:36"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->8.6","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 38:Level:30->80","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:36"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:15:36"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:36"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:15:36"}
+{"level":"info","message":"node2: changed: 38:Level:80->31","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:50->41","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:41->0","timestamp":"12:15:37"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:37"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:9->31","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:31->35","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:35->2","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:2->57","timestamp":"12:15:37"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:57->57","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:57->65","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:65->68","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:37"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:52->99","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:99->90","timestamp":"12:15:37"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:37"}
+{"level":"info","message":"node2: changed: 38:Level:90->68","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:68->54","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:54->89","timestamp":"12:15:38"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:89->90","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:38"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:38"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:90->40","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:38"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:40->0","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:15:38"}
+{"level":"info","message":"%d - go dim","timestamp":"12:15:38"}
+{"level":"info","message":"node2: changed: 38:Level:10->0","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:39"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->62","timestamp":"12:15:39"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:62->99","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:99->90","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:39"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:90->99","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:99->13","timestamp":"12:15:39"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 49:Power:8.6->7.6","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:13->4","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:4->0","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:39"}
+{"level":"info","message":"node2: changed: 38:Level:9->47","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:47->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->68","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:52->71","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:71->99","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:99->15","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:15->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:40"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:15:41"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:15:41"}
+{"level":"info","message":"node2: changed: 49:Power:7.6->0.0","timestamp":"12:15:41"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.4->0.0","timestamp":"12:15:43"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:15:49"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->2.6","timestamp":"12:15:49"}
+{"level":"info","message":"2.6","timestamp":"12:15:49"}
+{"level":"info","message":"go lit","timestamp":"12:15:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:15:49"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:15:49"}
+{"level":"info","message":"node2: changed: 38:Level:10->79","timestamp":"12:15:49"}
+{"level":"info","message":"node2: changed: 38:Level:79->2","timestamp":"12:15:49"}
+{"level":"info","message":"node2: changed: 38:Level:2->79","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:79->31","timestamp":"12:15:50"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:15:50"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:50->41","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:41->19","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:19->0","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:50"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:9->32","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:15:50"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:32->80","timestamp":"12:15:50"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:15:50"}
+{"level":"info","message":"node2: changed: 38:Level:80->43","timestamp":"12:15:51"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:43->68","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:52->99","timestamp":"12:15:51"}
+{"level":"info","message":"0 - go dim","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->0","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->99","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:99->90","timestamp":"12:15:51"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:51"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:90->31","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:50->41","timestamp":"12:15:51"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:15:51"}
+{"level":"info","message":"node2: changed: 38:Level:41->0","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:52"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->40","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:40->0","timestamp":"12:15:52"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->62","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:62->99","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->10.4","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:99->68","timestamp":"12:15:52"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:52->67","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:67->45","timestamp":"12:15:52"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:45->22","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:22->0","timestamp":"12:15:52"}
+{"level":"info","message":"1 - go dim","timestamp":"12:15:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:10->0","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:53"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->66","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:66->0","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:53"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->29","timestamp":"12:15:53"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 38:Level:29->9","timestamp":"12:15:53"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:15:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:53"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:9->68","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:15:54"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:52->70","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:70->99","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:99->0","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:54"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:15:54"}
+{"level":"info","message":"2 - go dim","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:10->32","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:32->47","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 38:Level:47->84","timestamp":"12:15:54"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:15:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:55"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 49:Power:10.4->7.9","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:84->31","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:50->40","timestamp":"12:15:55"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:40->0","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:15:55"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->39","timestamp":"12:15:55"}
+{"level":"info","message":"%d - go dim","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:39->0","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->62","timestamp":"12:15:55"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:62->99","timestamp":"12:15:55"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:15:55"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:99->85","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:56"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:85->31","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:31->9","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:9->10","timestamp":"12:15:56"}
+{"level":"info","message":"3 - go dim","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:10->59","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:59->0","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:15:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:15:57"}
+{"level":"info","message":"node2: changed: 49:Power:7.9->0.0","timestamp":"12:15:58"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:2.6->0.0","timestamp":"12:15:59"}
+{"level":"info","message":"disconnecting...","timestamp":"12:15:59"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:16:38"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:16:38"}
+{"level":"info","message":"node added","timestamp":"12:16:38"}
+{"level":"info","message":"node added","timestamp":"12:16:38"}
+{"level":"info","message":"node added","timestamp":"12:16:38"}
+{"level":"info","message":"node2: nop","timestamp":"12:16:38"}
+{"level":"info","message":"node3: nop","timestamp":"12:16:43"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:16:43"}
+{"level":"info","message":"node ready","timestamp":"12:16:43"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:16:43"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:16:43"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:16:44"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:16:44"}
+{"level":"info","message":"node ready","timestamp":"12:16:44"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:16:44"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:16:44"}
+{"level":"info","message":"====> scan complete","timestamp":"12:16:44"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:16:48"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:16:49"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:16:49"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->11.0","timestamp":"12:16:49"}
+{"level":"info","message":"11.0","timestamp":"12:16:49"}
+{"level":"info","message":"go lit","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:16:49"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:16:49"}
+{"level":"info","message":"0 - go dim","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:10->31","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:50->41","timestamp":"12:16:49"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:41->0","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:49"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:49"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:16:50"}
+{"level":"info","message":"0 - go dim","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:10->54","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:54->81","timestamp":"12:16:50"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:81->44","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:50"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:44->68","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:16:50"}
+{"level":"info","message":"0 - go dim","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:52->99","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:99->90","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:90->99","timestamp":"12:16:50"}
+{"level":"info","message":"node2: changed: 38:Level:99->33","timestamp":"12:16:50"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:33->0","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:51"}
+{"level":"info","message":"1 - go dim","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:51"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->31","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:31->41","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:41->50","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:16:51"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:50->0","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:51"}
+{"level":"info","message":"1 - go dim","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:16:51"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 38:Level:9->44","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 38:Level:44->59","timestamp":"12:16:52"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 38:Level:59->22","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.7","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:52"}
+{"level":"info","message":"1 - go dim","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 38:Level:22->83","timestamp":"12:16:52"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:52"}
+{"level":"info","message":"2 - go dim","timestamp":"12:16:52"}
+{"level":"info","message":"node2: changed: 38:Level:83->31","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:16:53"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:50->0","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:53"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:16:53"}
+{"level":"info","message":"2 - go dim","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:9->32","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:32->54","timestamp":"12:16:53"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:54->80","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 38:Level:80->47","timestamp":"12:16:53"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:16:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:54"}
+{"level":"info","message":"2 - go dim","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 38:Level:47->90","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:54"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:16:54"}
+{"level":"info","message":"3 - go dim","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:54"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 38:Level:90->31","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:16:54"}
+{"level":"info","message":"node2: changed: 38:Level:50->21","timestamp":"12:16:54"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:21->0","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:55"}
+{"level":"info","message":"%d - go dim","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:16:55"}
+{"level":"info","message":"3 - go dim","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Maroon","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:16:55"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:9->42","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 49:Power:3.7->3.0","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:42->58","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:58->35","timestamp":"12:16:55"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:35->0","timestamp":"12:16:55"}
+{"level":"info","message":"3 - go dim","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Maroon->Custom","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:16:55"}
+{"level":"info","message":"node2: changed: 38:Level:9->68","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:16:56"}
+{"level":"info","message":"node2: changed: 49:Power:3.0->0.0","timestamp":"12:16:57"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:11.0->0.0","timestamp":"12:16:58"}
+{"level":"info","message":"disconnecting...","timestamp":"12:17:57"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:18:01"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:18:01"}
+{"level":"info","message":"node added","timestamp":"12:18:01"}
+{"level":"info","message":"node added","timestamp":"12:18:01"}
+{"level":"info","message":"node added","timestamp":"12:18:01"}
+{"level":"info","message":"node2: nop","timestamp":"12:18:01"}
+{"level":"info","message":"node3: nop","timestamp":"12:18:06"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:18:06"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:18:06"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:18:06"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:18:06"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:18:06"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:18:07"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:18:07"}
+{"level":"info","message":"node ready","timestamp":"12:18:07"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:18:07"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:18:07"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:18:08"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:18:08"}
+{"level":"info","message":"node ready","timestamp":"12:18:08"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:18:08"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:18:08"}
+{"level":"info","message":"====> scan complete","timestamp":"12:18:08"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:18:11"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:18:12"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:18:12"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->10.2","timestamp":"12:18:12"}
+{"level":"info","message":"10.2","timestamp":"12:18:12"}
+{"level":"info","message":"go lit","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:18:12"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:18:12"}
+{"level":"info","message":"0 - go dim","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:9->31","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:18:12"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:50->0","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:12"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:18:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:13"}
+{"level":"info","message":"0 - go dim","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:9->42","timestamp":"12:18:13"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:42->80","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:80->43","timestamp":"12:18:13"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:13"}
+{"level":"info","message":"0 - go dim","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 38:Level:43->44","timestamp":"12:18:13"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:13"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:18:14"}
+{"level":"info","message":"1 - go dim","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:44->31","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:31->50","timestamp":"12:18:14"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:50->50","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:50->41","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:41->0","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:14"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:18:14"}
+{"level":"info","message":"1 - go dim","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->38","timestamp":"12:18:14"}
+{"level":"info","message":"node2: changed: 38:Level:38->89","timestamp":"12:18:14"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:89->86","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:86->49","timestamp":"12:18:15"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:15"}
+{"level":"info","message":"1 - go dim","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:49->54","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:23->45","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->9.5","timestamp":"12:18:15"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:45->0","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:15"}
+{"level":"info","message":"2 - go dim","timestamp":"12:18:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:18:16"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:9->6","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:6->2","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:2->3","timestamp":"12:18:16"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:3->3","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:3->10","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:10->77","timestamp":"12:18:16"}
+{"level":"info","message":"2 - go dim","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:77->62","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:62->99","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:16"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:99->68","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:68->52","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:52->89","timestamp":"12:18:16"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:89->67","timestamp":"12:18:16"}
+{"level":"info","message":"node2: changed: 38:Level:67->30","timestamp":"12:18:17"}
+{"level":"info","message":"2 - go dim","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:30->41","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:41->0","timestamp":"12:18:17"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:18:17"}
+{"level":"info","message":"3 - go dim","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 49:Power:9.5->9.1","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:9->40","timestamp":"12:18:17"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:17"}
+{"level":"info","message":"node2: changed: 38:Level:40->9","timestamp":"12:18:17"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:18:18"}
+{"level":"info","message":"%d - go dim","timestamp":"12:18:18"}
+{"level":"info","message":"3 - go dim","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:9->80","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:80->29","timestamp":"12:18:18"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:29->15","timestamp":"12:18:18"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:18"}
+{"level":"info","message":"3 - go dim","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:15->54","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:23->44","timestamp":"12:18:18"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 38:Level:54->0","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:18:19"}
+{"level":"info","message":"node2: changed: 49:Power:9.1->0.0","timestamp":"12:18:20"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:10.2->0.0","timestamp":"12:18:22"}
+{"level":"info","message":"disconnecting...","timestamp":"12:19:36"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:19:42"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:19:42"}
+{"level":"info","message":"node added","timestamp":"12:19:42"}
+{"level":"info","message":"node added","timestamp":"12:19:42"}
+{"level":"info","message":"node added","timestamp":"12:19:42"}
+{"level":"info","message":"node2: nop","timestamp":"12:19:42"}
+{"level":"info","message":"node3: nop","timestamp":"12:19:47"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:19:47"}
+{"level":"info","message":"node ready","timestamp":"12:19:47"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:19:47"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:19:47"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:19:48"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:19:48"}
+{"level":"info","message":"node ready","timestamp":"12:19:48"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:19:48"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:19:48"}
+{"level":"info","message":"====> scan complete","timestamp":"12:19:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:19:51"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->2.0","timestamp":"12:19:51"}
+{"level":"info","message":"2.0","timestamp":"12:19:51"}
+{"level":"info","message":"go lit","timestamp":"12:19:51"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:19:51"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:19:51"}
+{"level":"info","message":"0 - go dim","timestamp":"12:19:51"}
+{"level":"info","message":"node2: changed: 38:Level:9->54","timestamp":"12:19:51"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:19:51"}
+{"level":"info","message":"node2: changed: 38:Level:23->44","timestamp":"12:19:51"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:19:52"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:54->0","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:19:52"}
+{"level":"info","message":"0 - go dim","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:10->54","timestamp":"12:19:52"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:54->66","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 38:Level:66->28","timestamp":"12:19:52"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:19:52"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:19:52"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->8","timestamp":"12:19:52"}
+{"level":"info","message":"0 - go dim","timestamp":"12:19:53"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->true","timestamp":"12:19:53"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->true","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:28->54","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:54->44","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:44->23","timestamp":"12:19:53"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:53"}
+{"level":"info","message":"1 - go dim","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->51","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:51->54","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:23->54","timestamp":"12:19:53"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:54->44","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:44->22","timestamp":"12:19:53"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:22->0","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:53"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:19:54"}
+{"level":"info","message":"1 - go dim","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:10->36","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:36->39","timestamp":"12:19:54"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:54"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.4","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:39->35","timestamp":"12:19:54"}
+{"level":"info","message":"1 - go dim","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:35->99","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:54"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:42->99","timestamp":"12:19:54"}
+{"level":"info","message":"node2: changed: 38:Level:99->45","timestamp":"12:19:55"}
+{"level":"info","message":"2 - go dim","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:45->0","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:55"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:55"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->54","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:54->45","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:45->23","timestamp":"12:19:55"}
+{"level":"info","message":"2 - go dim","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:0->35","timestamp":"12:19:55"}
+{"level":"info","message":"node2: changed: 38:Level:35->0","timestamp":"12:19:55"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:0->99","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:19:56"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:42->99","timestamp":"12:19:56"}
+{"level":"info","message":"2 - go dim","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:99->79","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:79->57","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:57->21","timestamp":"12:19:56"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:21->65","timestamp":"12:19:56"}
+{"level":"info","message":"node2: changed: 38:Level:65->75","timestamp":"12:19:56"}
+{"level":"info","message":"3 - go dim","timestamp":"12:19:56"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:75->34","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:34->0","timestamp":"12:19:57"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:19:57"}
+{"level":"info","message":"%d - go dim","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:19:57"}
+{"level":"info","message":"3 - go dim","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:0->99","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 49:Power:3.4->5.8","timestamp":"12:19:57"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:42->90","timestamp":"12:19:57"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:90->99","timestamp":"12:19:57"}
+{"level":"info","message":"node2: changed: 38:Level:99->46","timestamp":"12:19:57"}
+{"level":"info","message":"3 - go dim","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:46->0","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:9->32","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:32->46","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 38:Level:46->24","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:19:58"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:19:59"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:19:59"}
+{"level":"info","message":"node2: changed: 49:Power:5.8->0.0","timestamp":"12:19:59"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:2.0->0.0","timestamp":"12:20:01"}
+{"level":"info","message":"disconnecting...","timestamp":"12:20:34"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:25:21"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:25:21"}
+{"level":"info","message":"node added","timestamp":"12:25:21"}
+{"level":"info","message":"node added","timestamp":"12:25:21"}
+{"level":"info","message":"node added","timestamp":"12:25:21"}
+{"level":"info","message":"node2: nop","timestamp":"12:25:21"}
+{"level":"info","message":"node3: nop","timestamp":"12:25:26"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:25:26"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:25:27"}
+{"level":"info","message":"node ready","timestamp":"12:25:27"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:25:27"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:25:27"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:25:28"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:25:28"}
+{"level":"info","message":"node ready","timestamp":"12:25:28"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:25:28"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:25:28"}
+{"level":"info","message":"====> scan complete","timestamp":"12:25:28"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Burglar:8->3","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:25:33"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.6","timestamp":"12:25:33"}
+{"level":"info","message":"1.6","timestamp":"12:25:33"}
+{"level":"info","message":"go lit","timestamp":"12:25:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:25:33"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:25:33"}
+{"level":"info","message":"0 - go dim","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 38:Level:10->45","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:25:34"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 38:Level:45->9","timestamp":"12:25:34"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:34"}
+{"level":"info","message":"0 - go dim","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 38:Level:9->54","timestamp":"12:25:34"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:25:34"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:25:35"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:35"}
+{"level":"info","message":"0 - go dim","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:10->32","timestamp":"12:25:35"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:32->47","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 38:Level:47->6","timestamp":"12:25:35"}
+{"level":"info","message":"1 - go dim","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:25:35"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:25:35"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 38:Level:6->29","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 38:Level:29->14","timestamp":"12:25:36"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:36"}
+{"level":"info","message":"1 - go dim","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 38:Level:14->45","timestamp":"12:25:36"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:36"}
+{"level":"info","message":"node2: changed: 38:Level:45->9","timestamp":"12:25:36"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:25:36"}
+{"level":"info","message":"1 - go dim","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:9->51","timestamp":"12:25:37"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:25:37"}
+{"level":"info","message":"2 - go dim","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:51->54","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:23->44","timestamp":"12:25:37"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:54->8","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:8->0","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.8","timestamp":"12:25:37"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:10->32","timestamp":"12:25:38"}
+{"level":"info","message":"2 - go dim","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:32->46","timestamp":"12:25:38"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:46->10","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:25:38"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:25:38"}
+{"level":"info","message":"2 - go dim","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:10->54","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:23->44","timestamp":"12:25:38"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:25:39"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:54->0","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:39"}
+{"level":"info","message":"3 - go dim","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:9->45","timestamp":"12:25:39"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:45->9","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:39"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:25:39"}
+{"level":"info","message":"%d - go dim","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:9->57","timestamp":"12:25:39"}
+{"level":"info","message":"3 - go dim","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 38:Level:57->10","timestamp":"12:25:39"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:40"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:10->9","timestamp":"12:25:40"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:25:40"}
+{"level":"info","message":"3 - go dim","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:9->54","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:40"}
+{"level":"info","message":"node2: changed: 49:Power:3.8->3.2","timestamp":"12:25:41"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:25:41"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:25:41"}
+{"level":"info","message":"node2: changed: 49:Power:3.2->0.0","timestamp":"12:25:42"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.6->0.0","timestamp":"12:25:44"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->0","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->false","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"12:25:55"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Burglar:0->3","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:29:09"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:29:10"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:29:10"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:29:10"}
+{"level":"info","message":"1.2","timestamp":"12:29:10"}
+{"level":"info","message":"go lit","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:29:10"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:29:10"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:9->54","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:54->45","timestamp":"12:29:10"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:45->23","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:10"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:29:10"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:0->57","timestamp":"12:29:11"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:57->99","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:42->89","timestamp":"12:29:11"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:89->99","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:99->45","timestamp":"12:29:11"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:45->28","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:28->50","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:11"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:11"}
+{"level":"info","message":"node2: changed: 38:Level:50->56","timestamp":"12:29:11"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:56->0","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:0->11","timestamp":"12:29:12"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:11->45","timestamp":"12:29:12"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:45->9","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:12"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:29:12"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:9->54","timestamp":"12:29:12"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:29:13"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:23->54","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:54->29","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:29->0","timestamp":"12:29:13"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.9","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:29:13"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:10->0","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:0->65","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:65->44","timestamp":"12:29:13"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:13"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:13"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:23->31","timestamp":"12:29:14"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:31->0","timestamp":"12:29:14"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->50","timestamp":"12:29:14"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:50->0","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->99","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:29:14"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:42->60","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:60->99","timestamp":"12:29:14"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:99->0","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:14"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:15"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:0->26","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:26->48","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:48->86","timestamp":"12:29:15"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:86->53","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:15"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:53->45","timestamp":"12:29:15"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:15"}
+{"level":"info","message":"node2: changed: 38:Level:45->10","timestamp":"12:29:15"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:29:16"}
+{"level":"info","message":"%d - go dim","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 38:Level:10->59","timestamp":"12:29:16"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 49:Power:3.9->5.3","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 38:Level:59->11","timestamp":"12:29:16"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 38:Level:11->12","timestamp":"12:29:16"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:16"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 38:Level:12->45","timestamp":"12:29:16"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:17"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:29:17"}
+{"level":"info","message":"disconnecting...","timestamp":"12:29:17"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:29:22"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:29:22"}
+{"level":"info","message":"node added","timestamp":"12:29:22"}
+{"level":"info","message":"node added","timestamp":"12:29:22"}
+{"level":"info","message":"node added","timestamp":"12:29:22"}
+{"level":"info","message":"node2: nop","timestamp":"12:29:22"}
+{"level":"info","message":"node3: nop","timestamp":"12:29:27"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:29:27"}
+{"level":"info","message":"node ready","timestamp":"12:29:27"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:29:27"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:29:27"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 49:Power:5.3->0.0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:29:28"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:29:28"}
+{"level":"info","message":"node ready","timestamp":"12:29:28"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:29:28"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:29:28"}
+{"level":"info","message":"====> scan complete","timestamp":"12:29:28"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:29:31"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->1.4","timestamp":"12:29:31"}
+{"level":"info","message":"1.4","timestamp":"12:29:31"}
+{"level":"info","message":"go lit","timestamp":"12:29:31"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:29:32"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:29:32"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:32"}
+{"level":"info","message":"node2: changed: 38:Level:10->30","timestamp":"12:29:32"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:29:32"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:29:32"}
+{"level":"info","message":"node2: changed: 38:Level:30->10","timestamp":"12:29:32"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:29:32"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:32"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:32"}
+{"level":"info","message":"node2: changed: 38:Level:10->99","timestamp":"12:29:33"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:99->42","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:42->0","timestamp":"12:29:33"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:33"}
+{"level":"info","message":"0 - go dim","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:10->55","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 38:Level:55->39","timestamp":"12:29:33"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:29:33"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:33"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:39->40","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:29:34"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:29:34"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:40->14","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:14->7","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:7->11","timestamp":"12:29:34"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:11->82","timestamp":"12:29:34"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:29:34"}
+{"level":"info","message":"node2: changed: 38:Level:82->44","timestamp":"12:29:34"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->3.7","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:44->99","timestamp":"12:29:35"}
+{"level":"info","message":"1 - go dim","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:99->54","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:54->54","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:23->24","timestamp":"12:29:35"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:24->54","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:54->0","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:35"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:29:35"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:29:35"}
+{"level":"info","message":"node2: changed: 38:Level:10->40","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:40->22","timestamp":"12:29:36"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:22->0","timestamp":"12:29:36"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:0->34","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:34->64","timestamp":"12:29:36"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:64->92","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:92->87","timestamp":"12:29:36"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:87->69","timestamp":"12:29:36"}
+{"level":"info","message":"2 - go dim","timestamp":"12:29:36"}
+{"level":"info","message":"node2: changed: 38:Level:69->45","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:37"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:29:37"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:45->40","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:29:37"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:40->31","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:31->9","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:29:37"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:29:37"}
+{"level":"info","message":"%d - go dim","timestamp":"12:29:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:29:38"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:9->44","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:44->44","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:44->51","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 49:Power:3.7->2.0","timestamp":"12:29:38"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:51->99","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:99->90","timestamp":"12:29:38"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:90->49","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:49->99","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:99->19","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:19->0","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:29:38"}
+{"level":"info","message":"3 - go dim","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:10->32","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:32->2","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:2->55","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:55->55","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:55->51","timestamp":"12:29:38"}
+{"level":"info","message":"node2: changed: 38:Level:51->45","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 38:Level:45->24","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 38:Level:24->0","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:29:39"}
+{"level":"info","message":"node2: changed: 49:Power:2.0->0.0","timestamp":"12:29:40"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.4->0.0","timestamp":"12:29:42"}
+{"level":"info","message":"disconnecting...","timestamp":"12:32:22"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:32:27"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:32:27"}
+{"level":"info","message":"node added","timestamp":"12:32:27"}
+{"level":"info","message":"node added","timestamp":"12:32:27"}
+{"level":"info","message":"node added","timestamp":"12:32:27"}
+{"level":"info","message":"node2: nop","timestamp":"12:32:27"}
+{"level":"info","message":"node3: nop","timestamp":"12:32:32"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:32:32"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:32:33"}
+{"level":"info","message":"node ready","timestamp":"12:32:33"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:32:33"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:32:33"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:32:34"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:32:34"}
+{"level":"info","message":"node ready","timestamp":"12:32:34"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:32:34"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:32:34"}
+{"level":"info","message":"====> scan complete","timestamp":"12:32:34"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:32:37"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:32:37"}
+{"level":"info","message":"1.2","timestamp":"12:32:37"}
+{"level":"info","message":"go lit","timestamp":"12:32:37"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:32:37"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:32:37"}
+{"level":"info","message":"0 - go dim","timestamp":"12:32:37"}
+{"level":"info","message":"node2: changed: 38:Level:10->31","timestamp":"12:32:37"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:32:37"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:31->9","timestamp":"12:32:38"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:32:38"}
+{"level":"info","message":"0 - go dim","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:9->99","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:99->89","timestamp":"12:32:38"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:89->99","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:99->12","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:12->0","timestamp":"12:32:38"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->35","timestamp":"12:32:38"}
+{"level":"info","message":"node2: changed: 38:Level:35->0","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:32:39"}
+{"level":"info","message":"0 - go dim","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->99","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:99->89","timestamp":"12:32:39"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:89->45","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:45->23","timestamp":"12:32:39"}
+{"level":"info","message":"1 - go dim","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:23->0","timestamp":"12:32:39"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->40","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:40->16","timestamp":"12:32:39"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:16->0","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:39"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:40"}
+{"level":"info","message":"1 - go dim","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:10->43","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:43->57","timestamp":"12:32:40"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:57->38","timestamp":"12:32:40"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:38->99","timestamp":"12:32:40"}
+{"level":"info","message":"1 - go dim","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:99->99","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:99->54","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:54->54","timestamp":"12:32:40"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:32:40"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:23->45","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:45->0","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:41"}
+{"level":"info","message":"2 - go dim","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->4.6","timestamp":"12:32:41"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:0->40","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:32:41"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:40->35","timestamp":"12:32:41"}
+{"level":"info","message":"2 - go dim","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:35->21","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 38:Level:21->43","timestamp":"12:32:41"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:32:41"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:43->81","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:81->44","timestamp":"12:32:42"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:32:42"}
+{"level":"info","message":"2 - go dim","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:44->54","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:23->30","timestamp":"12:32:42"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:30->0","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:32:42"}
+{"level":"info","message":"3 - go dim","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:10->33","timestamp":"12:32:42"}
+{"level":"info","message":"node2: changed: 38:Level:33->40","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:40->40","timestamp":"12:32:43"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:40->31","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:31->9","timestamp":"12:32:43"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:9->0","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:32:43"}
+{"level":"info","message":"%d - go dim","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:32:43"}
+{"level":"info","message":"3 - go dim","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:9->43","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:43->58","timestamp":"12:32:43"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:58->30","timestamp":"12:32:43"}
+{"level":"info","message":"node2: changed: 38:Level:30->27","timestamp":"12:32:43"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:32:43"}
+{"level":"info","message":"3 - go dim","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:27->54","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:54->23","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:23->29","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:29->0","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 49:Power:4.6->4.0","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Off","timestamp":"12:32:44"}
+{"level":"info","message":"node2: changed: 49:Power:4.0->0.0","timestamp":"12:32:45"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"12:32:47"}
+{"level":"info","message":"disconnecting...","timestamp":"12:33:06"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"12:33:10"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"12:33:10"}
+{"level":"info","message":"node added","timestamp":"12:33:10"}
+{"level":"info","message":"node added","timestamp":"12:33:10"}
+{"level":"info","message":"node added","timestamp":"12:33:10"}
+{"level":"info","message":"node2: nop","timestamp":"12:33:10"}
+{"level":"info","message":"node3: nop","timestamp":"12:33:15"}
+{"level":"info","message":"node3: node sleep","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"12:33:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"12:33:16"}
+{"level":"info","message":"node ready","timestamp":"12:33:16"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"12:33:16"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 39:Switch All:On and Off Enabled->On and Off Enabled","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->0.0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 50:Energy:0.00->0.00","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 50:Exporting:false->false","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 50:Power:0.0->0.0","timestamp":"12:33:16"}
+{"level":"info","message":"node2: changed: 51:Color:#00000000->#00000000","timestamp":"12:33:17"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Off","timestamp":"12:33:17"}
+{"level":"info","message":"node ready","timestamp":"12:33:17"}
+{"level":"info","message":"node2: FIBARO System, FGRGBWM441 RGBW Controller","timestamp":"12:33:17"}
+{"level":"info","message":"node2: name=\"\", type=\"Multilevel Power Switch\", location=\"\"","timestamp":"12:33:17"}
+{"level":"info","message":"====> scan complete","timestamp":"12:33:17"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:33:19"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:33:19"}
+{"level":"info","message":"1.2","timestamp":"12:33:19"}
+{"level":"info","message":"go lit","timestamp":"12:33:19"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:33:19"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:33:19"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 38:Level:9->68","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 51:Color Index:Off->Custom","timestamp":"12:33:20"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 38:Level:68->10","timestamp":"12:33:20"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:33:20"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 38:Level:10->64","timestamp":"12:33:20"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 51:Color Index:Custom->Custom","timestamp":"12:33:20"}
+{"level":"info","message":"node2: changed: 38:Level:64->2","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:2->3","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:3->3","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:3->10","timestamp":"12:33:21"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:10->86","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:86->79","timestamp":"12:33:21"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:79->89","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:89->99","timestamp":"12:33:21"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:99->89","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:89->99","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:99->18","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:18->0","timestamp":"12:33:21"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:21"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:21"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:33:22"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:33:22"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:22"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:33:22"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:33:22"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:23"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:33:23"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:23"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:33:23"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:33:23"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:24"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:33:24"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:33:24"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:24"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:33:25"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:25"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:33:25"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:33:25"}
+{"level":"info","message":"%d - go dim","timestamp":"12:33:25"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:25"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:33:26"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:33:26"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:26"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"12:33:29"}
+{"level":"info","message":"node2: timeout","timestamp":"12:33:31"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:31"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:31"}
+{"level":"info","message":"node2: changed: 38:Level:0->10","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:10->35","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:35->32","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:32->57","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:57->24","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:24->18","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:18->27","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:27->19","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:19->45","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:45->18","timestamp":"12:33:32"}
+{"level":"info","message":"node2: changed: 38:Level:18->19","timestamp":"12:33:33"}
+{"level":"info","message":"node2: changed: 38:Level:19->30","timestamp":"12:33:33"}
+{"level":"info","message":"node2: changed: 38:Level:30->16","timestamp":"12:33:33"}
+{"level":"info","message":"node2: changed: 38:Level:16->14","timestamp":"12:33:33"}
+{"level":"info","message":"node2: changed: 38:Level:14->40","timestamp":"12:33:33"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:33:37"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:33:37"}
+{"level":"info","message":"1.2","timestamp":"12:33:37"}
+{"level":"info","message":"go lit","timestamp":"12:33:37"}
+{"level":"info","message":"node2: changed: 38:Level:40->9","timestamp":"12:33:37"}
+{"level":"info","message":"0 - go colour1","timestamp":"12:33:37"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:37"}
+{"level":"info","message":"node2: changed: 38:Level:9->90","timestamp":"12:33:37"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:90->31","timestamp":"12:33:38"}
+{"level":"info","message":"0 - go colour2","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:31->2","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:2->97","timestamp":"12:33:38"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:97->97","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:97->55","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:55->60","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:60->67","timestamp":"12:33:38"}
+{"level":"info","message":"0 - light up full brightness","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:67->74","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:74->0","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:38"}
+{"level":"info","message":"0 - go colour3","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:38"}
+{"level":"info","message":"node2: changed: 38:Level:0->9","timestamp":"12:33:39"}
+{"level":"info","message":"0 - go dim","timestamp":"12:33:39"}
+{"level":"info","message":"node2: changed: 38:Level:9->31","timestamp":"12:33:39"}
+{"level":"info","message":"node2: changed: 38:Level:31->64","timestamp":"12:33:39"}
+{"level":"info","message":"node2: changed: 38:Level:64->79","timestamp":"12:33:39"}
+{"level":"info","message":"1 - go colour1","timestamp":"12:33:39"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:39"}
+{"level":"info","message":"node2: changed: 38:Level:79->67","timestamp":"12:33:39"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:33:39"}
+{"level":"info","message":"node2: changed: 38:Level:67->9","timestamp":"12:33:39"}
+{"level":"info","message":"1 - go colour2","timestamp":"12:33:39"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:40"}
+{"level":"info","message":"node2: changed: 38:Level:9->65","timestamp":"12:33:40"}
+{"level":"info","message":"1 - light up full brightness","timestamp":"12:33:40"}
+{"level":"info","message":"node2: changed: 38:Level:65->9","timestamp":"12:33:40"}
+{"level":"info","message":"1 - go colour3","timestamp":"12:33:40"}
+{"level":"info","message":"node2: changed: 49:Power:0.0->11.5","timestamp":"12:33:40"}
+{"level":"info","message":"1 - go dim","timestamp":"12:33:40"}
+{"level":"info","message":"node2: changed: 38:Level:9->89","timestamp":"12:33:40"}
+{"level":"info","message":"2 - go colour1","timestamp":"12:33:41"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:41"}
+{"level":"info","message":"node2: changed: 38:Level:89->69","timestamp":"12:33:41"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:33:41"}
+{"level":"info","message":"node2: changed: 38:Level:69->10","timestamp":"12:33:41"}
+{"level":"info","message":"2 - go colour2","timestamp":"12:33:41"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:41"}
+{"level":"info","message":"node2: changed: 38:Level:10->65","timestamp":"12:33:41"}
+{"level":"info","message":"2 - light up full brightness","timestamp":"12:33:42"}
+{"level":"info","message":"node2: changed: 38:Level:65->10","timestamp":"12:33:42"}
+{"level":"info","message":"2 - go colour3","timestamp":"12:33:42"}
+{"level":"info","message":"2 - go dim","timestamp":"12:33:42"}
+{"level":"info","message":"node2: changed: 38:Level:10->90","timestamp":"12:33:42"}
+{"level":"info","message":"3 - go colour1","timestamp":"12:33:42"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:42"}
+{"level":"info","message":"node2: changed: 38:Level:90->68","timestamp":"12:33:43"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:68->10","timestamp":"12:33:43"}
+{"level":"info","message":"3 - go colour2","timestamp":"12:33:43"}
+{"level":"info","message":"%d - go dim","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:10->34","timestamp":"12:33:43"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:34->15","timestamp":"12:33:43"}
+{"level":"info","message":"3 - light up full brightness","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:15->2","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:2->2","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:2->3","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:3->3","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:3->10","timestamp":"12:33:43"}
+{"level":"info","message":"3 - go colour3","timestamp":"12:33:43"}
+{"level":"info","message":"node2: changed: 38:Level:10->63","timestamp":"12:33:43"}
+{"level":"info","message":"3 - go dim","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:63->90","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:90->0","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 38:Level:0->0","timestamp":"12:33:44"}
+{"level":"info","message":"node2: changed: 49:Power:11.5->0.0","timestamp":"12:33:45"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"12:33:47"}
