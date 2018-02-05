@@ -1,0 +1,19 @@
+production:
+  adapter:  mysql2
+  username: root
+  password: password
+  host:     localhost
+  timezone: SGT
+  reconnect: true
+  database: phtc_grille_app
+  encoding: utf8
+
+development:
+  adapter:  mysql2
+  username: root
+  password: password
+  host:     localhost
+  timezone: SGT
+  reconnect: true
+  database: phtc_grille_app_dev
+  encoding: utf8

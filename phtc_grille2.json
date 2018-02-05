@@ -1,0 +1,17 @@
+{
+  "SeismicIntensity" : 0.0,
+  "UsbPort" : "/dev/ttyUSB-ZStick",
+  "Routine" : "custom",
+  "CustomRoutine" : 3,
+  "PredefinedDelayedSecs" : 6,
+  "LoopNumber" : 4,
+  "DelaySecs" : 0.0,
+  "DelayIncrementSecs" : 1,
+  "IntervalSecs" : 1.7,
+  "Custom1" :      {"Colour1" : "#00FFFF00", "Colour2" : "#9BAEC000", "Colour3" : "#008A3B00"},
+  "Custom1_desc" : {"Colour1" : "cyan", "Colour2" : "silver", "Colour3" : "lime"},
+  "Custom2" :      {"Colour1" : "#50008000", "Colour2" : "#B087FF00", "Colour3" : "#FF000000"},
+  "Custom2_desc" : {"Colour1" : "purple", "Colour2" : "yellow", "Colour3" : "red"},
+  "Custom3" :      {"Colour1" : "#FF000000", "Colour2" : "#FFFFFF", "Colour3" : "#0000FF00"},
+  "Custom3_desc" : {"Colour1" : "red", "Colour2" : "white", "Colour3" : "blue"} 
+}
