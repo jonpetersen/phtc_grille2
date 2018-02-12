@@ -17,7 +17,10 @@
 var ZWave = require('openzwave-shared');
 var winston = require('winston');
 var fs = require('fs');
+var yaml = require("node-yaml")
 const delay = require('delay');
+var DashingClient = require('dashing-client');
+var dashing = new DashingClient("http://localhost:3030", "YOUR_AUTH_TOKEN");
 
 var configFile = '/home/pi/phtc/phtc_grille2.json';
 var config = JSON.parse(
@@ -51,7 +54,7 @@ var zwavedriverpath = config.UsbPort;
 var routine = config.Routine;
 
 // params for predefined routine
-var predefined_delay_secs = config.PredefinedDelayedSecs * 1000;
+var predefined_secs_until_dim = config.PredefinedSecondsUntilDim * 1000;
 
 //params for custom routine
 var delay_secs = config.DelaySecs * 1000;
@@ -135,13 +138,24 @@ zwave.on('value changed', function(nodeid, comclass, value) {
     value['value']);
 //  }
 //  if (value['label'] == "Burglar") {
+  
+  // write seismic value to yaml for dashboard
+
+  if (value['label'] == "Seismic Intensity" && value['value'] > 0.0) yaml.write("/home/pi/phtc/last_seismic_intensity.yml", value['value']);
+  
+  
   if (value['label'] == "Seismic Intensity" && value['value'] > seismic_intensity) {
     //logger.info(value['label']);
     //logger.info(nodes[nodeid]['classes'][comclass][value.index]['value']);
+    
+    yaml.write("/home/pi/phtc/last_seismic_intensity_lit.yml", value['value']);
+    
+    //dashing.send("welcome", {welcome: value['value']});
+    
     logger.info(value['value']);
     //zwave.requestAllConfigParams(3);
     //player.play('/home/pi/Music/hit_me.m4a');
-    logger.info('go lit')
+    logger.info('go lit');
     
     if (routine == "predefined") {
     
@@ -149,7 +163,7 @@ zwave.on('value changed', function(nodeid, comclass, value) {
         //zwave.setValue(2, 51, 1, 0, "#FF000000"); //red
         zwave.setValue(2, 112, 1, 72, predefined_program); //run pre-defined program
         
-        delay(predefined_delay_secs)
+        delay(predefined_secs_until_dim)
         .then(() => {
             logger.info('%d - go dim');
             zwave.setValue(2, 38, 1, 0, 0);// dim

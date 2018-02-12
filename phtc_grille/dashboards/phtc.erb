@@ -1,0 +1,57 @@
+<script type="text/javascript"> // RELOADS WEBPAGE WHEN MOBILE ORIENTATION CHANGES  
+    window.onorientationchange = function() { window.location.reload(); };
+</script>
+<% content_for :title do %>PHTC Dashboard<% end %>
+<div class="gridster">
+  <ul>
+    
+<!--
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Clock"></div>
+    </li>
+-->
+<!--
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="status" data-view="Text" data-title="Status"></div>
+    </li>
+-->
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="hotstatus" data-view="HotStatus" data-title="Status"></div>
+	</li>
+	<li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textyellow" data-title="Tap to Restart" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/restart'"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textred" data-title="Tap to Stop" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/stop'"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="last_seismic_activity_text_lit" data-view="Text" data-title="Last Lit"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="last_seismic_activity_text" data-view="Text" data-title="Last Hit"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="sensitivity" data-view="Textblue" data-title="Sensitivity"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textblue" data-title="Tap to Increase Sensitivity by -0.5 (lower number)" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/increase_sensitivity'"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textblue" data-title="Tap to Decrease Sensitivity by +0.5 (higher number)" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/decrease_sensitivity'"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="duration" data-view="Textgrey" data-title="Light Duration"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textgrey" data-title="Tap to Increase Duration" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/increase_duration'"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Textgrey" data-title="Tap to Decrease Duration" data-moreinfo="" onclick="location.href='http://petworth.dvrdns.org:9292/decrease_duration'"></div>
+    </li>
+<!--
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="last_seismic_activity" data-view="Meter" data-title="Last Hit" data-height="200" data-width="200" data-min="0" data-max="15" data-suffix=""></div>
+    </li>
+-->
+    
+</div>

@@ -1,0 +1,165 @@
+Writing PID to tmp/pids/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to tmp/pids/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on tmp/sockets/thin.0.sock, CTRL+C to stop
+Exiting!
+/var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_unix_server': no unix-domain acceptor (RuntimeError)
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:532:in `start_server'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:561:in `start_unix_domain_server'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/unix_server.rb:19:in `connect'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:63:in `block in start'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run_machine'
+	from /var/lib/gems/2.3.0/gems/eventmachine-1.2.5/lib/eventmachine.rb:194:in `run'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/backends/base.rb:73:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/server.rb:162:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/controllers/controller.rb:87:in `start'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:203:in `run_command'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/lib/thin/runner.rb:159:in `run!'
+	from /var/lib/gems/2.3.0/gems/thin-1.7.2/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:22:in `load'
+	from /usr/local/bin/thin:22:in `<main>'
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on /tmp/thin.0.sock, CTRL+C to stop
+Exiting!
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on /tmp/thin.0.sock, CTRL+C to stop
+Exiting!
+Writing PID to /tmp/thin.0.pid
+Changing process privilege to pi:pi
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on /tmp/thin.0.sock, CTRL+C to stop
+Exiting!
