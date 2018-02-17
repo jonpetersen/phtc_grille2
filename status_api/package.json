@@ -1,0 +1,28 @@
+{
+  "name": "status_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "dashing-client": "^0.0.5",
+    "delay": "^2.0.0",
+    "lodash": "^4.17.5",
+    "openzwave-shared": "^1.4.0",
+    "winston": "^2.4.0",
+    "async": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpetersen/phtc_grille2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonpetersen/phtc_grille2/issues"
+  },
+  "homepage": "https://github.com/jonpetersen/phtc_grille2#readme"
+}

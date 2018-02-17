@@ -1,0 +1,3136 @@
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #25
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #26
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #27
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #28
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #29
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #30
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #31
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #32
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #33
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #34
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #35
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #36
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #37
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #38
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #39
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #40
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #41
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #42
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #43
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #44
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #45
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #46
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #47
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #48
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #49
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #50
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #51
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #52
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #53
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #54
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #55
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #56
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #57
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #58
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #59
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #60
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #61
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #62
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #63
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #64
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #65
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #66
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #67
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #68
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #69
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #70
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #71
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #72
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #73
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #74
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #75
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #76
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #77
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #78
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #79
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #80
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #81
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #82
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #83
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #84
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #85
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #86
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #87
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #88
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #89
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #90
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #91
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #92
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #93
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #94
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #95
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #96
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #97
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #98
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #99
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #100
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #101
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #102
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #103
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #104
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #105
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #106
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #107
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #108
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #109
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #110
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #111
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #112
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #113
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #114
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #115
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #116
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #117
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #118
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #119
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #120
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #121
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #122
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #123
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #124
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #125
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #126
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #127
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #128
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #129
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #130
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #131
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #132
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #133
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #134
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #135
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #136
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #137
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #138
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #139
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #140
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #141
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #142
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #143
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #144
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #145
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #146
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #147
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #148
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #149
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #150
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #151
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #152
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #153
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #154
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #155
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #156
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #157
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #158
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #159
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #160
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #161
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #162
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #163
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #164
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #165
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #166
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #167
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #168
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #169
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #170
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #171
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #172
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #173
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #174
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #175
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #176
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #177
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #178
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #179
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #180
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #181
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #182
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #183
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #184
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #185
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #186
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #187
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #188
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #189
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #190
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #191
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #192
+/home/pi/phtc/status_api/app.js:9
+routes(app);
+^
+
+TypeError: routes is not a function
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:9:1)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #193
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #194
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #195
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #196
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #197
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #198
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #199
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #200
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #201
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #202
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #203
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #204
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #205
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #206
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #207
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #208
+/home/pi/phtc/status_api/app.js:13
+});s
+   ^
+
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/pi/phtc/status_api/app.js:13:4)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #209
+app running on port. 3000
