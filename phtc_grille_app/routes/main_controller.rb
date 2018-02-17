@@ -31,6 +31,19 @@ class MainController < Sinatra::Base
     {"status" => status.strip!}.to_json
   end
   
+  get '/appstatus' do
+    status = `systemctl is-active thin`
+    {"appstatus" => status.strip!}.to_json
+  end
+  
+  get '/restartapp' do
+    `sudo service thin restart`
+    appstatus = `systemctl is-active thin` 
+    {"status" => appstatus}.to_json
+    redirect "http://petworth.dvrdns.org:3030/phtc"
+    
+  end
+  
   get '/sensitivity' do
     file = File.read("/home/pi/phtc/phtc_grille2.json") 
 	sensitivity = JSON.parse(file)["SeismicIntensity"]
