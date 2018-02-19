@@ -1,0 +1,10 @@
+[
+  {
+    "uid": "status_api",
+    "append": true,
+    "watch": false,
+    "script": "app.js",
+    "sourceDir": "/home/pi/phtc/status_api/",
+    "workingDir": "/home/pi/phtc/status_api/"
+  }
+]
