@@ -101,17 +101,25 @@ class MainController < Sinatra::Base
   end
   
   get '/last_seismic_activity' do
-    last_seismic_activity = YAML.load_file("/home/pi/phtc/last_seismic_intensity.yml") 
-	last_seismic_activity_time = File.mtime("/home/pi/phtc/last_seismic_intensity.yml")
-	last_seismic_activity_time = last_seismic_activity_time.strftime("%a %H:%M:%S")
-	{"last_seismic_activity" => last_seismic_activity,"last_seismic_activity_time" => last_seismic_activity_time}.to_json  
+    last_seismic_activity1 = YAML.load_file("/home/pi/phtc/last_seismic_intensity1.yml") 
+	last_seismic_activity_time1 = File.mtime("/home/pi/phtc/last_seismic_intensity1.yml")
+	last_seismic_activity_time1 = last_seismic_activity_time1.strftime("%a %H:%M:%S")
+	last_seismic_activity2 = YAML.load_file("/home/pi/phtc/last_seismic_intensity2.yml") 
+	last_seismic_activity_time2 = File.mtime("/home/pi/phtc/last_seismic_intensity2.yml")
+	last_seismic_activity_time2 = last_seismic_activity_time2.strftime("%a %H:%M:%S")
+	
+	{"last_seismic_activity1" => last_seismic_activity1,"last_seismic_activity_time1" => last_seismic_activity_time1,"last_seismic_activity2" => last_seismic_activity2,"last_seismic_activity_time2" => last_seismic_activity_time2}.to_json  
   end
   
   get '/last_seismic_activity_lit' do
-    last_seismic_activity_lit = YAML.load_file("/home/pi/phtc/last_seismic_intensity_lit.yml") 
-	last_seismic_activity_time_lit = File.mtime("/home/pi/phtc/last_seismic_intensity_lit.yml")
-	last_seismic_activity_time_lit = last_seismic_activity_time_lit.strftime("%a %H:%M:%S")
-	{"last_seismic_activity_lit" => last_seismic_activity_lit,"last_seismic_activity_time_lit" => last_seismic_activity_time_lit}.to_json  
+    last_seismic_activity_lit1 = YAML.load_file("/home/pi/phtc/last_seismic_intensity_lit1.yml") 
+	last_seismic_activity_time_lit1 = File.mtime("/home/pi/phtc/last_seismic_intensity_lit1.yml")
+	last_seismic_activity_time_lit1 = last_seismic_activity_time_lit1.strftime("%a %H:%M:%S")
+	last_seismic_activity_lit2 = YAML.load_file("/home/pi/phtc/last_seismic_intensity_lit2.yml") 
+	last_seismic_activity_time_lit2 = File.mtime("/home/pi/phtc/last_seismic_intensity_lit2.yml")
+	last_seismic_activity_time_lit2 = last_seismic_activity_time_lit2.strftime("%a %H:%M:%S")
+
+	{"last_seismic_activity_lit1" => last_seismic_activity_lit1,"last_seismic_activity_time_lit1" => last_seismic_activity_time_lit1,"last_seismic_activity_lit2" => last_seismic_activity_lit2,"last_seismic_activity_time_lit2" => last_seismic_activity_time_lit2}.to_json  
   end
   
 end

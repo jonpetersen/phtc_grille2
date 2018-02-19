@@ -141,14 +141,25 @@ zwave.on('value changed', function(nodeid, comclass, value) {
   
   // write seismic value to yaml for dashboard
 
-  if (value['label'] == "Seismic Intensity" && value['value'] > 0.0) yaml.write("/home/pi/phtc/last_seismic_intensity.yml", value['value']);
+  if (value['label'] == "Seismic Intensity" && value['value'] > 0.0 && nodeid == "3") {
+    yaml.write("/home/pi/phtc/last_seismic_intensity1.yml", value['value']);
+    logger.info('sensor 1 hit');
+    logger.info(nodeid);
+  }
+  if (value['label'] == "Seismic Intensity" && value['value'] > 0.0 && nodeid == "4") {
+    yaml.write("/home/pi/phtc/last_seismic_intensity2.yml", value['value']);
+    logger.info('sensor 2 hit');
+    logger.info(nodeid);
+  }
   
-  
-  if (value['label'] == "Seismic Intensity" && value['value'] > seismic_intensity) {
+  if ((value['label'] == "Seismic Intensity" && value['value'] > seismic_intensity && nodeid == "3")
+      || (value['label'] == "Seismic Intensity" && value['value'] > seismic_intensity && nodeid == "4"))
+   {
     //logger.info(value['label']);
     //logger.info(nodes[nodeid]['classes'][comclass][value.index]['value']);
     
-    yaml.write("/home/pi/phtc/last_seismic_intensity_lit.yml", value['value']);
+    if (nodeid == "3") {yaml.write("/home/pi/phtc/last_seismic_intensity_lit1.yml", value['value']);}
+    if (nodeid == "4") {yaml.write("/home/pi/phtc/last_seismic_intensity_lit2.yml", value['value']);}
     
     //dashing.send("welcome", {welcome: value['value']});
     
