@@ -1,0 +1,22 @@
+---
+user: pi
+group: pi
+pid: /tmp/thin.pid
+port: 9292
+address: 0.0.0.0
+chdir: /home/pi/phtc/phtc_grille_app
+rackup: /home/pi/phtc/phtc_grille_app/config.ru
+timeout: 60
+wait: 60
+log: log/thin.log
+quiet: true
+max_conns: 512
+require: []
+environment: production
+max_persistent_conns: 256
+servers: 1
+threaded: true
+no-epoll: true
+daemonize: true
+tag: phtc_grille_app
+
