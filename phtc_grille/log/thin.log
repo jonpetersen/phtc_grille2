@@ -1,0 +1,8 @@
+192.168.1.31 - - [19/Feb/2018:11:19:46 +0000] "GET /events HTTP/1.1" 200 - 785.8540
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to /home/pi/phtc/phtc_grille/smashing.pid
+Thin web server (v1.7.2 codename Bachmanity)
+Debugging ON
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
