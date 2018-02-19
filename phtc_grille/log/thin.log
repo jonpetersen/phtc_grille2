@@ -6,3 +6,19 @@ Thin web server (v1.7.2 codename Bachmanity)
 Debugging ON
 Maximum connections set to 1024
 Listening on 0.0.0.0:3030, CTRL+C to stop
+192.168.1.31 - - [19/Feb/2018:11:53:12 +0000] "GET /events HTTP/1.1" 200 - 1882.5190
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to /home/pi/phtc/phtc_grille/smashing.pid
+Thin web server (v1.7.2 codename Bachmanity)
+Debugging ON
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+192.168.1.31 - - [19/Feb/2018:11:54:50 +0000] "GET /phtc HTTP/1.1" 200 4477 0.1219
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/hot_status.html HTTP/1.1" 200 261 0.0171
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textyellow.html HTTP/1.1" 200 181 0.0035
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textred.html HTTP/1.1" 200 178 0.0028
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/text.html HTTP/1.1" 200 175 0.0031
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textblue.html HTTP/1.1" 200 179 0.0026
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textgrey.html HTTP/1.1" 200 179 0.0029
+192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/hot_status_app.html HTTP/1.1" 200 264 0.0060

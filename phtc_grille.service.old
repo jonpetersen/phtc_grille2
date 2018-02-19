@@ -1,0 +1,10 @@
+[Unit]
+Description=PHTC Grille Alarm
+After=network-online.target
+
+[Service]
+Restart=on-failure
+WorkingDirectory=/home/pi/phtc/
+ExecStart=/usr/local/bin/forever start /home/pi/phtc/phtc_grille2.js
+[Install]
+WantedBy=multi-user.target
