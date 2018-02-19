@@ -2211,3 +2211,9 @@
 {"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.0","timestamp":"11:48:16"}
 {"level":"info","message":"node3: changed: 49:Luminance:16->50","timestamp":"11:48:20"}
 {"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"11:48:27"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"11:52:01"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"11:52:01"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"11:52:01"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->0","timestamp":"11:52:01"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->false","timestamp":"11:52:01"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"11:52:01"}
