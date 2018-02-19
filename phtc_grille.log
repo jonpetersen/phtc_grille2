@@ -2397,3 +2397,213 @@
 {"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"12:59:32"}
 {"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.2","timestamp":"12:59:32"}
 {"level":"info","message":"node3: changed: 49:Seismic Intensity:1.2->0.0","timestamp":"12:59:42"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:03:30"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.6","timestamp":"13:03:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->8","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->true","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->true","timestamp":"13:03:32"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.6->0.0","timestamp":"13:03:41"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:8->3","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.0","timestamp":"13:04:19"}
+{"level":"info","message":"node3: changed: 49:Temperature:22.3->22.2","timestamp":"13:04:21"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"13:04:30"}
+{"level":"info","message":"connecting to /dev/ttyUSB-ZStick","timestamp":"13:09:06"}
+{"level":"info","message":"scanning homeid=0xec753f18...","timestamp":"13:09:06"}
+{"level":"info","message":"node added","timestamp":"13:09:06"}
+{"level":"info","message":"node added","timestamp":"13:09:06"}
+{"level":"info","message":"node added","timestamp":"13:09:06"}
+{"level":"info","message":"node2: nop","timestamp":"13:09:10"}
+{"level":"info","message":"node3: nop","timestamp":"13:09:15"}
+{"level":"info","message":"node3: node sleep","timestamp":"13:09:15"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"13:09:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"13:09:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Failed node==0, retval=8, state=0","timestamp":"13:09:15"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"13:09:15"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"13:09:15"}
+{"level":"info","message":"node2: node dead","timestamp":"13:09:16"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Failed node==0, retval=8, state=0","timestamp":"13:09:16"}
+{"level":"info","message":"node ready","timestamp":"13:09:16"}
+{"level":"info","message":"node1: Aeotec, Z-Stick Gen5","timestamp":"13:09:16"}
+{"level":"info","message":"node1: name=\"\", type=\"Static PC Controller\", location=\"\"","timestamp":"13:09:16"}
+{"level":"info","message":"====> scan complete","timestamp":"13:09:16"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:09:26"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->8.4","timestamp":"13:09:26"}
+{"level":"info","message":"8.4","timestamp":"13:09:26"}
+{"level":"info","message":"go lit","timestamp":"13:09:26"}
+{"level":"info","message":"%d - go dim","timestamp":"13:09:28"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:8.4->0.0","timestamp":"13:09:37"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:15:30"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:15:30"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:15:30"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->0","timestamp":"13:15:30"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"13:15:31"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"13:15:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:0->3","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.0","timestamp":"13:15:48"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"13:15:59"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.0","timestamp":"13:16:46"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"13:16:57"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.0","timestamp":"13:17:14"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.0->0.0","timestamp":"13:17:24"}
+{"level":"info","message":"node3: node awake","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerComand - Starting node==0, retval=1, state=0","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - InProgress node==0, retval=6, state=0","timestamp":"13:17:49"}
+{"level":"info","message":"controller commmand feedback: ControllerCommand - Completed node==0, retval=7, state=0","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 115:Powerlevel:Normal->Normal","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 115:Timeout:0->0","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 132:Wake-up Interval:7200->7200","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 32:Basic:255->0","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->false","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 49:Luminance:127->32","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 49:Luminance:32->32","timestamp":"13:17:50"}
+{"level":"info","message":"node3: changed: 49:Luminance:32->32","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->254","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 128:Battery Level:92->85","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 156:General:255->0","timestamp":"13:17:51"}
+{"level":"info","message":"node ready","timestamp":"13:17:51"}
+{"level":"info","message":"node3: FIBARO System, FGMS001 Motion Sensor","timestamp":"13:17:51"}
+{"level":"info","message":"node3: name=\"\", type=\"Home Security Sensor\", location=\"\"","timestamp":"13:17:51"}
+{"level":"info","message":"====> scan complete","timestamp":"13:17:51"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Burglar:254->3","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 156:General:0->255","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.4","timestamp":"13:24:52"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.4->0.0","timestamp":"13:25:03"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->3.0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->8","timestamp":"13:27:21"}
+{"level":"info","message":"node3: changed: 48:Sensor:false->true","timestamp":"13:27:22"}
+{"level":"info","message":"node3: changed: 48:Sensor:true->true","timestamp":"13:27:22"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:3.0->0.0","timestamp":"13:27:31"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:46"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:46"}
+{"level":"info","message":"node3: changed: 113:Burglar:8->3","timestamp":"13:27:46"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:Alarm Type:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:Alarm Level:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:SourceNodeId:0->0","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 113:Burglar:3->3","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 156:General:255->255","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:0.0->1.8","timestamp":"13:27:47"}
+{"level":"info","message":"node3: changed: 49:Seismic Intensity:1.8->0.0","timestamp":"13:27:57"}

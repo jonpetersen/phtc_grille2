@@ -22,3 +22,459 @@ Listening on 0.0.0.0:3030, CTRL+C to stop
 192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textblue.html HTTP/1.1" 200 179 0.0026
 192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/textgrey.html HTTP/1.1" 200 179 0.0029
 192.168.1.31 - - [19/Feb/2018:11:55:12 +0000] "GET /views/hot_status_app.html HTTP/1.1" 200 264 0.0060
+{ 29677860 rufus-scheduler intercepted an error:
+  29677860   job:
+  29677860     Rufus::Scheduler::EveryJob "1s" {}
+  29677860   error:
+  29677860     29677860
+  29677860     Errno::ECONNREFUSED{ 29677392 rufus-scheduler intercepted an error:
+{ 29679192 rufus-scheduler intercepted an error:
+  29677860     Failed to open TCP connection to 127.0.0.1:9292 (Connection refused - connect(2) for "127.0.0.1" port 9292)
+  29679192   job:{ 28492668 rufus-scheduler intercepted an error:
+
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'  29679192     Rufus::Scheduler::EveryJob "1s" {}
+
+
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'  29679192   error:  28492668   job:  29677392   job:
+
+  29677860       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+  29679192     29679192
+  29677860       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+  29679192     Errno::ECONNREFUSED
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+
+  29679192     Failed to open TCP connection to localhost:9292 (Connection refused - connect(2) for "localhost" port 9292)
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+  29679192       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'
+  29679192       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+  29677860       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+  29677860       /home/pi/phtc/phtc_grille/jobs/sensitivity.rb:6:in `block in <top (required)>'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+
+  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'  29679192       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'
+
+  29677392     Rufus::Scheduler::EveryJob "1s" {}  28492668     Rufus::Scheduler::EveryJob "1s" {}
+  29679192       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'
+  28492668   error:
+
+  29679192       /home/pi/phtc/phtc_grille/jobs/last_seismic_activity_lit.rb:6:in `block in <top (required)>'
+  28492668     28492668
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'
+  28492668     Errno::ECONNREFUSED
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'
+  28492668     Failed to open TCP connection to 127.0.0.1:9292 (Connection refused - connect(2) for "127.0.0.1" port 9292)
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'
+  28492668       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+  29679192       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'
+  28492668       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+  29679192   tz:
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+  29679192     ENV['TZ']: 
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+  29679192     Time.now: 2018-02-19 13:08:33 +0000
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+  29679192     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+  29679192   et-orbi:  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'
+
+  28492668       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'  29677392   error:
+  29679192     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")  28492668       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'
+
+  29677392     29677392  28492668       /home/pi/phtc/phtc_grille/jobs/duration.rb:6:in `block in <top (required)>'
+  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'
+
+
+  29677392     Errno::ECONNREFUSED  29677860       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'  29679192   scheduler:
+
+  29677860   tz:
+  28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'  29679192     object_id: 10596600
+
+  29677392     Failed to open TCP connection to localhost:9292 (Connection refused - connect(2) for "localhost" port 9292)
+
+  29677860     ENV['TZ']:   28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'  29679192     opts:  29677392       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+
+
+
+  28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'  29679192       {}
+
+  29677392       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'  28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'
+  29677860     Time.now: 2018-02-19 13:08:33 +0000  29679192       frequency: 0.3
+
+  29679192       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>  29677392       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'  29677860     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+
+
+
+  28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'  29679192       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>  29677860   et-orbi:
+
+  29679192     uptime: 4501.217759609222 (1h15m1s217)
+
+  28492668       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'  29679192     down?: false
+
+  29677860     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")  29679192     threads: 6  29677392       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+
+  28492668   tz:
+
+  29677860   scheduler:  29679192       thread: #<Thread:0x1c76b80>
+  28492668     ENV['TZ']: 
+  29679192       thread_key: rufus_scheduler_10596600
+  28492668     Time.now: 2018-02-19 13:08:33 +0000
+  29679192       work_threads: 5
+  28492668     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+  29679192         active: 4
+  28492668   et-orbi:
+  29679192         vacant: 1
+  28492668     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")  29679192         max_work_threads: 28
+  29677392       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+
+  29677860     object_id: 10596600
+
+  28492668   scheduler:  29679192       mutexes: {}
+
+  29677392       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'  29677860     opts:  28492668     object_id: 10596600
+
+  29679192     jobs: 5
+  29677392       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'  29677860       {}
+  28492668     opts:
+
+  29679192       at_jobs: 0
+
+  29677860       frequency: 0.3
+  29679192       in_jobs: 0
+  29677860       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>
+  29679192       every_jobs: 5
+  29677860       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+  29679192       interval_jobs: 0
+  29677860     uptime: 4501.225543022156 (1h15m1s225)
+  29679192       cron_jobs: 0
+  29677860     down?: false
+  29679192     running_jobs: 4
+  29677860     threads: 6
+  29679192     work_queue: 0
+  28492668       {}} 29679192 .  29677860       thread: #<Thread:0x1c76b80>  29677392       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+
+
+  28492668       frequency: 0.3
+
+  28492668       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>  29677392       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'
+
+  28492668       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>  29677392       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'
+
+  29677860       thread_key: rufus_scheduler_10596600  29677392       /home/pi/phtc/phtc_grille/jobs/last_seismic_activity.rb:6:in `block in <top (required)>'
+
+  29677860       work_threads: 5  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'  28492668     uptime: 4501.230274677277 (1h15m1s230)
+
+  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'
+
+  29677860         active: 3  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'
+
+  29677860         vacant: 2  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'  28492668     down?: false
+
+  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'  28492668     threads: 6
+
+  29677392       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'
+
+  29677860         max_work_threads: 28  29677392   tz:  28492668       thread: #<Thread:0x1c76b80>
+
+  29677392     ENV['TZ']:   28492668       thread_key: rufus_scheduler_10596600
+
+  29677392     Time.now: 2018-02-19 13:08:33 +0000  29677860       mutexes: {}
+
+
+  29677392     local_tzone: #<TZInfo::DataTimezone: Europe/London>  28492668       work_threads: 5
+
+  29677860     jobs: 5  29677392   et-orbi:  28492668         active: 3
+
+  28492668         vacant: 2
+  29677392     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")  28492668         max_work_threads: 28
+
+  29677392   scheduler:  28492668       mutexes: {}
+
+  28492668     jobs: 5  29677392     object_id: 10596600
+  28492668       at_jobs: 0
+  28492668       in_jobs: 0
+
+  29677392     opts:
+
+  29677860       at_jobs: 0  29677392       {}  28492668       every_jobs: 5
+
+  29677392       frequency: 0.3  28492668       interval_jobs: 0
+
+
+  29677392       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>  29677860       in_jobs: 0
+
+  28492668       cron_jobs: 0  29677392       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+
+  29677860       every_jobs: 5  29677392     uptime: 4501.236637353897 (1h15m1s236)
+
+  28492668     running_jobs: 3  29677392     down?: false
+  28492668     work_queue: 0
+  29677860       interval_jobs: 0  29677392     threads: 6
+
+
+  29677392       thread: #<Thread:0x1c76b80>} 28492668 .
+
+  29677860       cron_jobs: 0  29677392       thread_key: rufus_scheduler_10596600
+
+  29677392       work_threads: 5  29677860     running_jobs: 2
+
+  29677392         active: 2  29677860     work_queue: 0
+
+  29677392         vacant: 3} 29677860 .
+
+  29677392         max_work_threads: 28
+  29677392       mutexes: {}
+  29677392     jobs: 5
+  29677392       at_jobs: 0
+  29677392       in_jobs: 0
+  29677392       every_jobs: 5
+  29677392       interval_jobs: 0
+  29677392       cron_jobs: 0
+  29677392     running_jobs: 1
+  29677392     work_queue: 0
+} 29677392 .
+{ 29560776 rufus-scheduler intercepted an error:
+  29560776   job:
+  29560776     Rufus::Scheduler::EveryJob "1s" {}
+  29560776   error:
+  29560776     29560776
+  29560776     Errno::ECONNREFUSED
+  29560776     Failed to open TCP connection to localhost:9292 (Connection refused - connect(2) for "localhost" port 9292)
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+  29560776       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+  29560776       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'
+  29560776       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'
+  29560776       /home/pi/phtc/phtc_grille/jobs/last_seismic_activity_lit.rb:6:in `block in <top (required)>'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'
+  29560776       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'
+  29560776   tz:
+  29560776     ENV['TZ']: 
+  29560776     Time.now: 2018-02-19 13:08:34 +0000
+  29560776     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+  29560776   et-orbi:
+  29560776     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")
+  29560776   scheduler:
+  29560776     object_id: 10596600
+  29560776     opts:
+  29560776       {}
+  29560776       frequency: 0.3
+  29560776       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>
+  29560776       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+  29560776     uptime: 4502.407462596893 (1h15m2s407)
+  29560776     down?: false
+  29560776     threads: 6
+  29560776       thread: #<Thread:0x1c76b80>
+  29560776       thread_key: rufus_scheduler_10596600
+  29560776       work_threads: 5
+  29560776         active: 4
+  29560776         vacant: 1
+  29560776         max_work_threads: 28
+  29560776       mutexes: {}
+  29560776     jobs: 5
+  29560776       at_jobs: 0
+  29560776       in_jobs: 0
+  29560776       every_jobs: 5
+  29560776       interval_jobs: 0
+  29560776       cron_jobs: 0
+  29560776     running_jobs: 4
+  29560776     work_queue: 0
+} 29560776 .
+{ 29559324 rufus-scheduler intercepted an error:
+  29559324   job:
+{ 29560620 rufus-scheduler intercepted an error:  29559324     Rufus::Scheduler::EveryJob "1s" {}
+
+  29559324   error:  29560620   job:
+
+  29559324     29559324  29560620     Rufus::Scheduler::EveryJob "1s" {}
+{ 29557428 rufus-scheduler intercepted an error:
+  29560620   error:
+
+  29559324     Errno::ECONNREFUSED  29560620     29560620
+  29559324     Failed to open TCP connection to 127.0.0.1:9292 (Connection refused - connect(2) for "127.0.0.1" port 9292)
+
+  29560620     Errno::ECONNREFUSED  29559324       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+
+  29560620     Failed to open TCP connection to 127.0.0.1:9292 (Connection refused - connect(2) for "127.0.0.1" port 9292)  29557428   job:
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'  29557428     Rufus::Scheduler::EveryJob "1s" {}
+
+  29557428   error:  29560620       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+  29557428     29557428
+
+  29560620       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+
+  29560620       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'  29557428     Errno::ECONNREFUSED
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'  29559324       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'  29557428     Failed to open TCP connection to localhost:9292 (Connection refused - connect(2) for "localhost" port 9292)
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'  29559324       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'  29557428       /usr/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect'
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+
+  29560620       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'  29557428       /usr/lib/ruby/2.3.0/net/http.rb:879:in `block in connect'
+
+  29560620       /home/pi/phtc/phtc_grille/jobs/duration.rb:6:in `block in <top (required)>'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'  29557428       /usr/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'  29557428       /usr/lib/ruby/2.3.0/timeout.rb:101:in `timeout'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'  29557428       /usr/lib/ruby/2.3.0/net/http.rb:878:in `connect'
+
+  29560620       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'  29559324       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'
+
+  29560620   tz:  29557428       /usr/lib/ruby/2.3.0/net/http.rb:863:in `do_start'
+
+  29560620     ENV['TZ']:   29557428       /usr/lib/ruby/2.3.0/net/http.rb:852:in `start'
+
+  29560620     Time.now: 2018-02-19 13:08:34 +0000  29557428       /usr/lib/ruby/2.3.0/net/http.rb:584:in `start'
+
+  29559324       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'  29560620     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+
+  29557428       /usr/lib/ruby/2.3.0/net/http.rb:479:in `get_response'  29560620   et-orbi:  29559324       /home/pi/phtc/phtc_grille/jobs/sensitivity.rb:6:in `block in <top (required)>'
+
+  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'
+  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'
+  29560620     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")
+
+  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'  29560620   scheduler:
+
+  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'  29560620     object_id: 10596600
+
+  29557428       /usr/lib/ruby/2.3.0/net/http.rb:456:in `get'  29560620     opts:  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'
+
+  29560620       {}
+
+  29557428       /home/pi/phtc/phtc_grille/jobs/last_seismic_activity.rb:6:in `block in <top (required)>'  29560620       frequency: 0.3
+
+  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:210:in `do_call'  29560620       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>
+
+  29559324       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'  29560620       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+
+  29559324   tz:  29560620     uptime: 4502.41316485405 (1h15m2s413)
+
+  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:254:in `trigger_now'  29560620     down?: false
+
+  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:296:in `block (3 levels) in start_work_thread'  29560620     threads: 6
+
+  29559324     ENV['TZ']:   29560620       thread: #<Thread:0x1c76b80>
+
+  29559324     Time.now: 2018-02-19 13:08:34 +0000  29560620       thread_key: rufus_scheduler_10596600
+  29559324     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+
+  29560620       work_threads: 5  29559324   et-orbi:
+
+  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:299:in `block (2 levels) in start_work_thread'  29560620         active: 3
+
+  29560620         vacant: 2  29559324     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")
+
+  29560620         max_work_threads: 28  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `loop'
+
+  29560620       mutexes: {}  29559324   scheduler:
+
+  29560620     jobs: 5  29559324     object_id: 10596600
+
+  29557428       /var/lib/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib/rufus/scheduler/jobs.rb:285:in `block in start_work_thread'  29560620       at_jobs: 0
+
+  29557428   tz:  29560620       in_jobs: 0
+
+  29559324     opts:  29560620       every_jobs: 5
+
+  29557428     ENV['TZ']:   29560620       interval_jobs: 0
+
+  29559324       {}  29560620       cron_jobs: 0
+
+  29557428     Time.now: 2018-02-19 13:08:34 +0000  29560620     running_jobs: 3
+
+  29559324       frequency: 0.3  29560620     work_queue: 0
+
+  29559324       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>} 29560620 .  29557428     local_tzone: #<TZInfo::DataTimezone: Europe/London>
+
+  29557428   et-orbi:
+  29557428     (etz:nil,tnz:"GMT",tzid:nil,rv:"2.3.3",rp:"arm-linux-gnueabihf",eov:"1.0.9",rorv:nil,astz:nil,debian:"Europe/London",centos:nil,osx:"Europe/London")
+  29557428   scheduler:
+  29557428     object_id: 10596600
+  29557428     opts:
+  29557428       {}
+  29557428       frequency: 0.3
+  29557428       scheduler_lock: #<Rufus::Scheduler::NullLock:0x1435b30>
+  29557428       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+  29557428     uptime: 4502.416977882385 (1h15m2s417)
+  29557428     down?: false
+  29557428     threads: 6
+  29557428       thread: #<Thread:0x1c76b80>
+  29557428       thread_key: rufus_scheduler_10596600
+  29557428       work_threads: 5
+  29557428         active: 2
+  29557428         vacant: 3
+  29557428         max_work_threads: 28
+  29557428       mutexes: {}
+  29557428     jobs: 5
+  29557428       at_jobs: 0
+  29557428       in_jobs: 0
+  29557428       every_jobs: 5
+  29557428       interval_jobs: 0
+  29557428       cron_jobs: 0
+  29557428     running_jobs: 2
+  29557428     work_queue: 0
+} 29557428 .
+
+  29559324       trigger_lock: #<Rufus::Scheduler::NullLock:0x1435b18>
+  29559324     uptime: 4502.418897151947 (1h15m2s418)
+  29559324     down?: false
+  29559324     threads: 6
+  29559324       thread: #<Thread:0x1c76b80>
+  29559324       thread_key: rufus_scheduler_10596600
+  29559324       work_threads: 5
+  29559324         active: 1
+  29559324         vacant: 4
+  29559324         max_work_threads: 28
+  29559324       mutexes: {}
+  29559324     jobs: 5
+  29559324       at_jobs: 0
+  29559324       in_jobs: 0
+  29559324       every_jobs: 5
+  29559324       interval_jobs: 0
+  29559324       cron_jobs: 0
+  29559324     running_jobs: 1
+  29559324     work_queue: 0
+} 29559324 .
+192.168.1.31 - - [19/Feb/2018:13:08:35 +0000] "GET /events HTTP/1.1" 200 - 4402.7776
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to /home/pi/phtc/phtc_grille/smashing.pid
+Thin web server (v1.7.2 codename Bachmanity)
+Debugging ON
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
