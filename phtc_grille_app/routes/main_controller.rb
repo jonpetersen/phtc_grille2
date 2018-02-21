@@ -118,8 +118,11 @@ class MainController < Sinatra::Base
 	last_seismic_activity_lit2 = YAML.load_file("/home/pi/phtc/last_seismic_intensity_lit2.yml") 
 	last_seismic_activity_time_lit2 = File.mtime("/home/pi/phtc/last_seismic_intensity_lit2.yml")
 	last_seismic_activity_time_lit2 = last_seismic_activity_time_lit2.strftime("%a %H:%M:%S")
+	last_hit_3 = YAML.load_file("/home/pi/phtc/last_hit_3.yml") 
+	last_hit_time_3 = File.mtime("/home/pi/phtc/last_hit_3.yml")
+	last_hit_time_3 = last_hit_time_3.strftime("%a %H:%M:%S")
 
-	{"last_seismic_activity_lit1" => last_seismic_activity_lit1,"last_seismic_activity_time_lit1" => last_seismic_activity_time_lit1,"last_seismic_activity_lit2" => last_seismic_activity_lit2,"last_seismic_activity_time_lit2" => last_seismic_activity_time_lit2}.to_json  
+	{"last_seismic_activity_lit1" => last_seismic_activity_lit1,"last_seismic_activity_time_lit1" => last_seismic_activity_time_lit1,"last_seismic_activity_lit2" => last_seismic_activity_lit2,"last_seismic_activity_time_lit2" => last_seismic_activity_time_lit2,"last_hit_3" => last_hit_3, "last_hit_time_3" => last_hit_time_3}.to_json  
   end
   
 end

@@ -5,7 +5,7 @@ var appRouter = function (app) {
   });
 
   app.get("/appstatus", function(req, res) {
-    exec('sudo systemctl show thin.service -p ActiveState',(error, stdout, stderr) => {
+    exec('sudo systemctl show -p SubState --value thin.service',(error, stdout, stderr) => {
       if (error) {
         console.error(`exec error: ${error}`);
       return;
